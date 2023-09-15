@@ -1,0 +1,89 @@
+================================================================================
+1. In general, most mathematical functions that are commonly employed by engineers, scientists and navigators can be approximated by polynomials.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. Zuse anticipated that machine instructions should be stored separately from the storage used for data
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. The purpose of the difference engine was to compute astronomical and mathematical tables.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+4. Zuse opted to use the binary system for his programmable computer.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. The difference engine was completed in 1833.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+6. Zuse opted to use the hexadecimal system for his programmable computer.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. In the 1930’s it was demonstrated that there was a three-to-one relationship between Boolean logic and certain electrical circuits.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+8. The analytical engine included a monochrome monitor for output.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+9. Zuse opted to use the octal system for his programmable computer.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. In 1936, Alan Turing set out the idea that a device would be capable of performing any conceivable mathematical computation if it could be represented as an algorithm.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+11. Zuse anticipated that machine instructions could be stored in the same storage used for data.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+12. The analytical engine included an arithmetic logic unit.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+13. Zuse opted to use the decimal system for his programmable computer.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+14. In 1941, Konrad Zuse, a German civil engineer, completed the Z2.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+15. The analytical engine included punched cards for output.
+------------------------------------------------------------
+	A.  True
+	B.  False

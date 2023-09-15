@@ -1,0 +1,91 @@
+================================================================================
+1. The role of the address bus is to move data either to or from main memory.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. Words are accessed from primary storage as a single unit.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. In order to access memory at a specific address, the address is specified on the address bus.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+4. As a first step in performing a calculation, the CPU places the contents of register AX into the output register of the ALU.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. The CPU is a common abbreviation for the Central Processing Unit.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+6. The CPU is responsible for executing the instructions of a program, including those of the operating system.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. A computer's main memory is also referred to as secondary storage.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+8. On a 16-bit computer the data bus is necessarily 16-bits wide.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+9. The ALU is a common abbreviation for the Arithmetic Logic Unit.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. The read/write flag for main memory enables the same data bus to be used for both reading and writing.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+11. A computer's memory is divided into individually-accessible, fixed-size units called:
+------------------------------------------------------------
+	A.  Flip-Flops
+	B.  Words
+	C.  Bits
+	D.  Bytes
+
+================================================================================
+12. Accessing memory requires that each and every word has a unique address.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+13. A register is a quickly accessible location which can be directly accessed in a process which is much faster than accessing main memory.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+14. A computer's main memory is also referred to as primary storage.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+15. The instruction register typically holds two instructions: the current instruction and the next instruction.
+------------------------------------------------------------
+	A.  True
+	B.  False

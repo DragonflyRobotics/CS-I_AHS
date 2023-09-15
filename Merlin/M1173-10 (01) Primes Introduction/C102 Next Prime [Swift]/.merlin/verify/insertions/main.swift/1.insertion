@@ -1,0 +1,2 @@
+let n = 9746
+print(n, nextPrime(n:n))

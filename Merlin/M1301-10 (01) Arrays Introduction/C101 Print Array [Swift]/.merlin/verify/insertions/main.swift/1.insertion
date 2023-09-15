@@ -1,0 +1,3 @@
+let integers : [Int] = [1106, -4332, -7161, 1319, -9105, 2142, 6937, 651, 2218, -5673, 2040, 911]
+let count = printIntegers(integers:integers)
+print(count)

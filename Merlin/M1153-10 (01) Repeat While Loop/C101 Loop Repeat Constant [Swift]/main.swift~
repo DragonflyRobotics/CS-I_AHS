@@ -1,0 +1,9 @@
+// I got help from: ...
+// I helped: ...
+
+var counter = 1
+
+while counter <= 12 {
+    print("Hello, World!")
+    counter += 1
+}

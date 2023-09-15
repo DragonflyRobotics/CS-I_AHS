@@ -1,0 +1,291 @@
+3769
+{
+  "command_arguments" : [
+    "-frontend",
+    "-emit-module",
+    "-experimental-skip-non-inlinable-function-bodies-without-types",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/ActionPlan.swift",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/WorldPlanner.swift",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/main.swift",
+    "-target",
+    "x86_64-unknown-linux-gnu",
+    "-disable-objc-interop",
+    "-I",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Igis-1.4.0\/Igis\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Scenes-1.1.6\/Scenes\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/ScenesAnimations-1.0.0\/ScenesAnimations\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/MerlinKarel-1.0.0\/MerlinKarel\/.build\/debug",
+    "-enable-testing",
+    "-g",
+    "-module-cache-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/ModuleCache",
+    "-swift-version",
+    "5",
+    "-Onone",
+    "-D",
+    "SWIFT_PACKAGE",
+    "-D",
+    "DEBUG",
+    "-new-driver-path",
+    "\/usr\/bin\/swift-driver",
+    "-entry-point-function-name",
+    "Simple_main",
+    "-empty-abi-descriptor",
+    "-resource-dir",
+    "\/usr\/lib\/swift",
+    "-enable-anonymous-context-mangled-names",
+    "-Xcc",
+    "-fmodule-map-file=\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include\/module.modulemap",
+    "-Xcc",
+    "-I",
+    "-Xcc",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include",
+    "-module-name",
+    "Simple",
+    "-emit-module-doc-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftdoc",
+    "-emit-module-source-info-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftsourceinfo",
+    "-emit-dependencies-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/Simple.emit-module.d",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftmodule"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-frontend",
+  "inputs" : [
+
+  ],
+  "kind" : "began",
+  "name" : "emit-module",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftmodule",
+      "type" : "swiftmodule"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftdoc",
+      "type" : "swiftdoc"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftsourceinfo",
+      "type" : "swiftsourceinfo"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/Simple.emit-module.d",
+      "type" : "emit-module.d"
+    }
+  ],
+  "pid" : 680395,
+  "process" : {
+    "real_pid" : 680395
+  }
+}
+3662
+{
+  "command_arguments" : [
+    "-frontend",
+    "-c",
+    "-primary-file",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/ActionPlan.swift",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/WorldPlanner.swift",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/main.swift",
+    "-emit-dependencies-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.d",
+    "-emit-reference-dependencies-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swiftdeps",
+    "-target",
+    "x86_64-unknown-linux-gnu",
+    "-disable-objc-interop",
+    "-I",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Igis-1.4.0\/Igis\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Scenes-1.1.6\/Scenes\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/ScenesAnimations-1.0.0\/ScenesAnimations\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/MerlinKarel-1.0.0\/MerlinKarel\/.build\/debug",
+    "-enable-testing",
+    "-g",
+    "-module-cache-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/ModuleCache",
+    "-swift-version",
+    "5",
+    "-Onone",
+    "-D",
+    "SWIFT_PACKAGE",
+    "-D",
+    "DEBUG",
+    "-new-driver-path",
+    "\/usr\/bin\/swift-driver",
+    "-entry-point-function-name",
+    "Simple_main",
+    "-empty-abi-descriptor",
+    "-resource-dir",
+    "\/usr\/lib\/swift",
+    "-enable-anonymous-context-mangled-names",
+    "-Xcc",
+    "-fmodule-map-file=\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include\/module.modulemap",
+    "-Xcc",
+    "-I",
+    "-Xcc",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include",
+    "-module-name",
+    "Simple",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swift.o",
+    "-index-store-path",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/index\/store",
+    "-index-system-modules"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-frontend",
+  "inputs" : [
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/ActionPlan.swift"
+  ],
+  "kind" : "began",
+  "name" : "compile",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swift.o",
+      "type" : "object"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.d",
+      "type" : "d"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swiftdeps",
+      "type" : "swift-dependencies"
+    }
+  ],
+  "pid" : 680402,
+  "process" : {
+    "real_pid" : 680402
+  }
+}
+131
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "compile",
+  "pid" : 680402,
+  "process" : {
+    "real_pid" : 680402
+  }
+}
+135
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "emit-module",
+  "pid" : 680395,
+  "process" : {
+    "real_pid" : 680395
+  }
+}
+797
+{
+  "command_arguments" : [
+    "-modulewrap",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftmodule",
+    "-target",
+    "x86_64-unknown-linux-gnu",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.o"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-frontend",
+  "inputs" : [
+
+  ],
+  "kind" : "began",
+  "name" : "module-wrap",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.o",
+      "type" : "object"
+    }
+  ],
+  "pid" : 680647,
+  "process" : {
+    "real_pid" : 680647
+  }
+}
+135
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "module-wrap",
+  "pid" : 680647,
+  "process" : {
+    "real_pid" : 680647
+  }
+}
+1244
+{
+  "command_arguments" : [
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swift.o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/WorldPlanner.swift.o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/main.swift.o",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.autolink"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-autolink-extract",
+  "inputs" : [
+
+  ],
+  "kind" : "began",
+  "name" : "autolink-extract",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.autolink",
+      "type" : "autolink"
+    }
+  ],
+  "pid" : 680688,
+  "process" : {
+    "real_pid" : 680688
+  }
+}
+140
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "autolink-extract",
+  "pid" : 680688,
+  "process" : {
+    "real_pid" : 680688
+  }
+}
+176
+{
+  "inputs" : [
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/WorldPlanner.swift"
+  ],
+  "kind" : "skipped",
+  "name" : "compile"
+}
+168
+{
+  "inputs" : [
+    "\/home\/krishna-shah\/Merlin\/M1165-50 (01) Karel Quiz\/C102 Move Some More [Karel]\/main.swift"
+  ],
+  "kind" : "skipped",
+  "name" : "compile"
+}
+[0/4] Compiling Swift Module 'Simple' (3 sources)
+[1/3] Linking Simple
+warning: 'c102 move some more [karel]': found 3 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/krishna-shah/Merlin/M1165-50 (01) Karel Quiz/C102 Move Some More [Karel]/compile.err
+    /home/krishna-shah/Merlin/M1165-50 (01) Karel Quiz/C102 Move Some More [Karel]/compile.out
+    /home/krishna-shah/Merlin/M1165-50 (01) Karel Quiz/C102 Move Some More [Karel]/ActionPlan.swift~
+
+[2/3] Planning build
+Building for debugging...
+Build complete! (4.34s)

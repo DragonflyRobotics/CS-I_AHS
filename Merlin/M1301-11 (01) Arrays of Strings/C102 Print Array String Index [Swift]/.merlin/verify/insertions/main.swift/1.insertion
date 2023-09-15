@@ -1,0 +1,3 @@
+let strings : [String] = ["fit", "step"]
+let count = printStringsAndIndex(strings:strings)
+print(count)

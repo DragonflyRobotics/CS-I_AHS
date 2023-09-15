@@ -1,0 +1,10 @@
+1.  true ≡ ¬false 
+2.  ¬false ≡ ¬false 
+3.  false ≡ ¬false 
+4.  true ≡ ¬false 
+5.  ¬true ≡ ¬false 
+6.  true ∨ ¬true  ≡  false ∧ ¬true 
+7.  false ∧ ¬true  ≡  ¬true ⊽ ¬true 
+8.  ¬false ⊼ ¬true  ≡  ¬true ∧ ¬true 
+9.  ¬true ∧ false  ≡  ¬true ⊼ true 
+10.  false ⊽ ¬true  ≡  ¬true ⊼ true 

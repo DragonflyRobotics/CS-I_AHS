@@ -1,0 +1,3 @@
+let strings : [String] = ["overwrought", "label", "cushion", "position"]
+let count = printStrings(strings:strings)
+print(count)

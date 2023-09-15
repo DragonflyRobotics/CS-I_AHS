@@ -1,0 +1,5 @@
+1.  Your invigilator will provide you with a list of colors.
+2.  Enter each color, one per line, beggining on the first line.
+3.  Spelling and punctuation are significant.
+    If you are uncertain, please search for "Common Web Colors" on the wiki.
+    

@@ -1,0 +1,14 @@
+[0]->5303 is odd
+[1]->-6060 is even
+[2]->-1579 is odd
+[3]->-1802 is even
+[4]->9669 is odd
+[5]->-4014 is even
+[6]->-4132 is even
+[7]->353 is odd
+[8]->-1969 is odd
+[9]->-3022 is even
+[10]->5789 is odd
+[11]->7328 is even
+[12]->-1231 is odd
+13

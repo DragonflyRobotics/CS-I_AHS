@@ -1,0 +1,3 @@
+let words : [String] = ["tightfisted"]
+print(words)
+print(doubleWords(words:words))

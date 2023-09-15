@@ -1,0 +1,52 @@
+let a = 715
+print(a, isPrime(n:a))
+let b = 8819
+print(b, isPrime(n:b))
+let c = 7297
+print(c, isPrime(n:c))
+let d = 9115
+print(d, isPrime(n:d))
+let e = 10007
+print(e, isPrime(n:e))
+let f = 8753
+print(f, isPrime(n:f))
+let g = -5573
+print(g, isPrime(n:g))
+let h = 3967
+print(h, isPrime(n:h))
+let i = -6456
+print(i, isPrime(n:i))
+let j = 7448
+print(j, isPrime(n:j))
+let k = 1381
+print(k, isPrime(n:k))
+let l = 8269
+print(l, isPrime(n:l))
+let m = 2386
+print(m, isPrime(n:m))
+let n = -6785
+print(n, isPrime(n:n))
+let o = 6719
+print(o, isPrime(n:o))
+let p = 797
+print(p, isPrime(n:p))
+let q = 9907
+print(q, isPrime(n:q))
+let r = 8377
+print(r, isPrime(n:r))
+let s = 4279
+print(s, isPrime(n:s))
+let t = 1861
+print(t, isPrime(n:t))
+let u = 4441
+print(u, isPrime(n:u))
+let v = 8849
+print(v, isPrime(n:v))
+let w = 5953
+print(w, isPrime(n:w))
+let x = -2515
+print(x, isPrime(n:x))
+let y = 8609
+print(y, isPrime(n:y))
+let z = 8147
+print(z, isPrime(n:z))

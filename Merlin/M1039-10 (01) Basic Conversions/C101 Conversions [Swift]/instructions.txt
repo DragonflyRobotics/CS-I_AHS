@@ -1,0 +1,22 @@
+ 1.  Edit a file named "main.swift"
+ 2.  Print the sum of a and b
+ 3.  Print the sum of c and d
+ 4.  Print the sum of a and c
+ 5.  Print the sum of e and f
+ 6.  Print the sum of g and h
+ 7.  Print the sum of e and h
+ 8.  Print the sum of i and j
+ 9.  Print the sum of k and l
+10.  Print the sum of i and l
+11.  Print the sum of m and n
+12.  Print the sum of o and p
+13.  Print the sum of m and p
+14.  Print the concatenation of q and r
+15.  Print the sum of q and r
+16.  Print the sum of a and k
+17.  Print the sum of b and p
+18.  Print the sum of c and q
+19.  Print the sum of j and r
+20.  Print the concatenation of k and l
+
+

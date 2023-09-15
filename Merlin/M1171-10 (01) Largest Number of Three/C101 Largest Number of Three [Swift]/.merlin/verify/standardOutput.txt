@@ -1,0 +1,4 @@
+-8942.77
+1423.06
+-4908.56
+The largest value is b

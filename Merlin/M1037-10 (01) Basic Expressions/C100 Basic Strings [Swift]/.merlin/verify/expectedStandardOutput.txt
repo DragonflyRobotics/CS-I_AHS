@@ -1,0 +1,21 @@
+Hello, World!
+one,two,three,four,five
+one<->two<->three<->four<->five
+passenger
+bolt
+passenger|bolt
+passenger
+bolt
+wide
+five|four|three|two|one|zero
+passenger|bolt|wide
+line one
+line two
+line three
+fourteen
+fifteen
+passenger
+sixteen
+bolt
+seventeen
+five-<|>-five-<|>-five-<|>-one-<|>-two

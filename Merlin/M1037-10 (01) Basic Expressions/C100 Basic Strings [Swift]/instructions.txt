@@ -1,0 +1,23 @@
+1.  Create a file named "main.swift"
+2.  Print "Hello, World!"
+3.  Print the following strings, separated only by commas: "one", "two", "three", "four", "five"
+4.  Print the same strings as in the previous question, separated by a less than sign,
+    a hyphen, and a greater than sign
+5.  Print the string contained in the constant x
+6.  Print the string contained in the constant y
+7.  Print the string contained in the constant x, a vertical bar, and then the contstant y
+8.  Print the string contained in the constant x on one line, followed by y on the next line,
+    followed by z on the next line
+9.  Print the following strings, separated only by a vertical bar:
+    "five", "four", "three", "two", "one", "zero"
+10. Print the string contained in the constant x followed by a vertical bar,
+    then the string contained in the constant y followed by a vertical bar,
+    then the string contained in the constant z 
+11. Print the following strings, separated by new lines:
+    "line one", "line two", "line three"
+12. Print the following strings on separate lines:
+    "fourteen", "fifteen", the contents of the constant x, "sixteen", the contents of the
+    constant y, "seventeen"
+13. Print the following strings separated by the string "-<|>-":
+    "five", "five", "five", "one", "two"
+

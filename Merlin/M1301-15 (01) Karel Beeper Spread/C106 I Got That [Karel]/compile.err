@@ -1,0 +1,34 @@
+Fetching https://github.com/apple/swift-atomics.git from cache
+Fetched https://github.com/apple/swift-atomics.git (0.63s)
+Computing version for https://github.com/apple/swift-atomics.git
+Computed https://github.com/apple/swift-atomics.git at 1.0.3 (0.48s)
+Creating working copy for https://github.com/apple/swift-atomics.git
+Working copy of https://github.com/apple/swift-atomics.git resolved at 1.0.3
+warning: 'c106 i got that [karel]': found 3 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/krishna-shah/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/compile.out
+    /home/krishna-shah/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/compile.err
+    /home/krishna-shah/Merlin/M1301-15 (01) Karel Beeper Spread/C106 I Got That [Karel]/ActionPlan.swift~
+
+Building for debugging...
+[0/4] Compiling _AtomicsShims.c
+[2/16] Compiling Atomics AtomicLazyReference.swift
+[3/17] Compiling Atomics AtomicOptional.swift
+[4/17] Compiling Atomics AtomicRawRepresentable.swift
+[5/17] Compiling Atomics HighLevelTypes.swift
+[6/17] Compiling Atomics AtomicInteger.swift
+[7/17] Compiling Atomics AtomicMemoryOrderings.swift
+[8/17] Compiling Atomics AtomicStrongReference.swift
+[9/17] Compiling Atomics AtomicValue.swift
+[10/17] Compiling Atomics DoubleWord.swift
+[11/17] Compiling Atomics AtomicBool.swift
+[12/17] Emitting module Atomics
+[13/17] Compiling Atomics PointerConformances.swift
+[14/17] Compiling Atomics IntegerConformances.swift
+[16/19] Wrapping AST for Atomics for debugging
+[18/23] Compiling Simple main.swift
+[19/23] Emitting module Simple
+[20/23] Compiling Simple ActionPlan.swift
+[21/23] Compiling Simple WorldPlanner.swift
+[23/25] Wrapping AST for Simple for debugging
+[24/25] Linking Simple
+Build complete! (4.97s)

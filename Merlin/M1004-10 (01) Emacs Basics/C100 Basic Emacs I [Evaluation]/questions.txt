@@ -1,0 +1,73 @@
+================================================================================
+1. In emacs, pressing the <Return> key may sometimes insert a Newline character and also insert whitespace in order to automatically align new text with that on the previous line.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. In emacs, a newline character can be deleted just like any other character.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+3. To get help in emacs, the correct key sequence is:
+------------------------------------------------------------
+	A.  SHIFT-h
+	B.  CTRL-h
+	C.  META-h
+	D.  FUNCTION-h
+
+================================================================================
+4. In emacs, the cursor can be moved to another window with the key sequence:
+------------------------------------------------------------
+	A.  C-x 2
+	B.  C-x 1
+	C.  C-x o (the second character is a lowercase "O")
+	D.  C-x 0 (the second character is the digit zero)
+
+================================================================================
+5. In emacs, in order to save multiple files, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-s
+	B.  C-x C-s
+	C.  C-x s
+	D.  M-x s
+
+================================================================================
+6. In emacs, the screen can be split horizontally with the key sequence:
+------------------------------------------------------------
+	A.  C-x 0 (the second character is the digit zero)
+	B.  C-x 3
+	C.  C-x 1
+	D.  C-x 2
+
+================================================================================
+7. In emacs, most commands use a prefix argument as a repeat count.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+8. In emacs, to kill from the cursor position to the end of the line, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-DEL
+	B.  C-k
+	C.  M-DEL
+	D.  M-k
+
+================================================================================
+9. In emacs, completion of commands and file names can be invoked with the key sequence:
+------------------------------------------------------------
+	A.  TAB
+	B.  C-c
+	C.  M-c
+	D.  M-x
+
+================================================================================
+10. In emacs, an alternative to using the META key is to:
+------------------------------------------------------------
+	A.  Press CONTROL followed by the desired character
+	B.  Press SHIFT followed by the desired character
+	C.  Press ESC followed by the desired character
+	D.  Press TAB followed by the desired character

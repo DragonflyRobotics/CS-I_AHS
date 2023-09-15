@@ -1,0 +1,5 @@
+let integers : [Int] = [7002, 9937, -4029, -7512, 6334, -9661, 8405, 8722, -2927, -4964, -8618, 8986, -6266]
+let multiplier = 781
+print(integers)
+print(multiplier)
+print(multiplyIntegers(integers:integers, multiplier:multiplier))

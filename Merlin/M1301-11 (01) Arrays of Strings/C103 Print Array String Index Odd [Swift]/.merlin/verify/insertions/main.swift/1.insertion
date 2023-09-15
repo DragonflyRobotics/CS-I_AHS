@@ -1,0 +1,3 @@
+let strings : [String] = ["superb", "reproduce", "underwear", "plausible", "faded", "hard", "name", "land", "ceaseless", "raspy", "wave", "outstanding", "lamp", "notebook", "general"]
+let count = printStringsAndIndex(strings:strings)
+print(count)

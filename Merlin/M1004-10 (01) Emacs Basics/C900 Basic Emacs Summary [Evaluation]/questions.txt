@@ -1,0 +1,223 @@
+================================================================================
+1. In emacs, most commands use a prefix argument as a repeat count.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. In emacs, to move the cursor to the beginning of a sentence, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-b
+	B.  C-a
+	C.  C-b
+	D.  M-a
+
+================================================================================
+3. In emacs, completion of commands and file names can be invoked with the key sequence:
+------------------------------------------------------------
+	A.  C-c
+	B.  M-x
+	C.  M-c
+	D.  TAB
+
+================================================================================
+4. In emacs, to move the cursor backward a single word, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-f
+	B.  C-b
+	C.  M-b
+	D.  M-f
+
+================================================================================
+5. In emacs, the asterisks (stars) at the front of the mode line indicate:
+------------------------------------------------------------
+	A.  Changes have been made to the buffer that have not yet been saved to the file.
+	B.  Emacs is busy accessing the disk.
+	C.  Emacs is busy in a CPU intensive task.
+	D.  No changes have been made to the buffer that have not already been saved to the file.
+
+================================================================================
+6. In emacs, in order to make the text you edit permanent, you must save it in a file.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+7. In emacs, it is an error to find a file which does not yet exist.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+8. In emacs, the location of the cursor in the text is also called "point".
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+9. In emacs, pressing the <Return> key may sometimes insert a Newline character and also insert whitespace in order to automatically align new text with that on the previous line.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. In emacs, in order to reinsert the most recently killed text at the current cursor position, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-INS
+	B.  C-y
+	C.  M-INS
+	D.  M-y
+
+================================================================================
+11. In emacs, to move the cursor to the end of the file, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-b
+	B.  C-e
+	C.  ESC->
+	D.  ESC-<
+
+================================================================================
+12. To end an emacs session, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-x M-c
+	B.  M-c M-x
+	C.  C-c C-x
+	D.  C-x C-c
+
+================================================================================
+13. In emacs, to move the cursor to the beginning of the line, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-a
+	B.  C-e
+	C.  M-e
+	D.  C-a
+
+================================================================================
+14. In emacs, after text has been yanked, it is no longer possible to yank the same text again (for example, to make two copies of the same text).
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+15. In emacs, the screen can be split horizontally with the key sequence:
+------------------------------------------------------------
+	A.  C-x 0 (the second character is the digit zero)
+	B.  C-x 2
+	C.  C-x 1
+	D.  C-x 3
+
+================================================================================
+16. When using emacs in a text terminal, long text lines which are continued on to another screen line are indicated by which character on the rightmost screen column?
+------------------------------------------------------------
+	A.  ! (an exclamation point)
+	B.  $ (a dollar sign)
+	C.  \ (a backslash)
+	D.  / (a forward slash)
+
+================================================================================
+17. To start the tutorial in emacs, the correct key sequence is:
+------------------------------------------------------------
+	A.  CTRL-h t
+	B.  META-h t
+	C.  SHIFT-h t
+	D.  TAB-h t
+
+================================================================================
+18. In emacs, named, extended commands begin with the key sequence:
+------------------------------------------------------------
+	A.  C-x C-x
+	B.  C-x
+	C.  M-x
+	D.  M-e
+
+================================================================================
+19. In emacs, very often Meta characters are used for operations related to the units defined by language (words, sentences, paragraphs), while Control characters operate on the basic units that are independent of what you are editing (characters, lines, etc).
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+20. In a text file, the special character which separates one line from the next is called a:
+------------------------------------------------------------
+	A.  Line divider character
+	B.  Nextline character
+	C.  Newline character
+	D.  Line separation character
+
+================================================================================
+21. In emacs, an alternative to using the META key is to:
+------------------------------------------------------------
+	A.  Press ESC followed by the desired character
+	B.  Press CONTROL followed by the desired character
+	C.  Press TAB followed by the desired character
+	D.  Press SHIFT followed by the desired character
+
+================================================================================
+22. To get help in emacs, the correct key sequence is:
+------------------------------------------------------------
+	A.  CTRL-h
+	B.  SHIFT-h
+	C.  META-h
+	D.  FUNCTION-h
+
+================================================================================
+23. In emacs, to move the cursor forward a single character, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-f
+	B.  C-f
+	C.  M-a
+	D.  C-a
+
+================================================================================
+24. In emacs, to end a partially entered command, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-h
+	B.  M-h
+	C.  C-g
+	D.  M-g
+
+================================================================================
+25. In emacs, in order to undo the changes made by one command, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-_ (the second character is an underscore)
+	B.  M-u
+	C.  C-u
+	D.  C-_ (the second character is an underscore)
+
+================================================================================
+26. In emacs, to move the cursor to the end of a sentence, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-e
+	B.  C-f
+	C.  M-f
+	D.  C-e
+
+================================================================================
+27. In emacs, to begin inserting text, the key sequence ":I" (colon followed by an uppercase I) is required.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+28. In emacs, in order to retrieve text from an earlier kill, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-y
+	B.  C-SPC
+	C.  M-INS
+	D.  M-y
+
+================================================================================
+29. In emacs, an incremental forward search may be initiated with the key sequence:
+------------------------------------------------------------
+	A.  C-s
+	B.  M-s
+	C.  C-x C-f
+	D.  M-x forward-search
+
+================================================================================
+30. In emacs, to scroll down (forwards), the correct key sequence is:
+------------------------------------------------------------
+	A.  C-v
+	B.  M-v
+	C.  C-p
+	D.  C-n

@@ -1,0 +1,33 @@
+================================================================================
+1. In Linux, all files are integrated into a single, hierarchical directory structure that appears as an inverted tree.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+2. The command used to create a new directory is:
+------------------------------------------------------------
+	A.  mkdir
+	B.  createdir
+	C.  cd
+	D.  cwd
+
+================================================================================
+3. A client-server model is a means of distributing resources between the provider of a service and a consumer of that service, the client.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+4. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  display
+	B.  print
+	C.  write
+	D.  echo
+
+================================================================================
+5. The client-server model is typically only effective over short distances.
+------------------------------------------------------------
+	A.  True
+	B.  False

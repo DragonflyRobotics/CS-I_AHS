@@ -1,0 +1,2 @@
+let sum = "$467.18"
+printDenominations(forSum:sum)

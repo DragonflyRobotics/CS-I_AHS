@@ -1,0 +1,290 @@
+3799
+{
+  "command_arguments" : [
+    "-frontend",
+    "-emit-module",
+    "-experimental-skip-non-inlinable-function-bodies-without-types",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/ActionPlan.swift",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/WorldPlanner.swift",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/main.swift",
+    "-target",
+    "x86_64-unknown-linux-gnu",
+    "-disable-objc-interop",
+    "-I",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Igis-1.4.0\/Igis\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Scenes-1.1.6\/Scenes\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/ScenesAnimations-1.0.0\/ScenesAnimations\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/MerlinKarel-1.0.0\/MerlinKarel\/.build\/debug",
+    "-enable-testing",
+    "-g",
+    "-module-cache-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/ModuleCache",
+    "-swift-version",
+    "5",
+    "-Onone",
+    "-D",
+    "SWIFT_PACKAGE",
+    "-D",
+    "DEBUG",
+    "-new-driver-path",
+    "\/usr\/bin\/swift-driver",
+    "-entry-point-function-name",
+    "Simple_main",
+    "-empty-abi-descriptor",
+    "-resource-dir",
+    "\/usr\/lib\/swift",
+    "-enable-anonymous-context-mangled-names",
+    "-Xcc",
+    "-fmodule-map-file=\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include\/module.modulemap",
+    "-Xcc",
+    "-I",
+    "-Xcc",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include",
+    "-module-name",
+    "Simple",
+    "-emit-module-doc-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftdoc",
+    "-emit-module-source-info-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftsourceinfo",
+    "-emit-dependencies-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/Simple.emit-module.d",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftmodule"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-frontend",
+  "inputs" : [
+
+  ],
+  "kind" : "began",
+  "name" : "emit-module",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftmodule",
+      "type" : "swiftmodule"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftdoc",
+      "type" : "swiftdoc"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftsourceinfo",
+      "type" : "swiftsourceinfo"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/Simple.emit-module.d",
+      "type" : "emit-module.d"
+    }
+  ],
+  "pid" : 943799,
+  "process" : {
+    "real_pid" : 943799
+  }
+}
+3692
+{
+  "command_arguments" : [
+    "-frontend",
+    "-c",
+    "-primary-file",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/ActionPlan.swift",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/WorldPlanner.swift",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/main.swift",
+    "-emit-dependencies-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.d",
+    "-emit-reference-dependencies-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swiftdeps",
+    "-target",
+    "x86_64-unknown-linux-gnu",
+    "-disable-objc-interop",
+    "-I",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Igis-1.4.0\/Igis\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/Scenes-1.1.6\/Scenes\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/ScenesAnimations-1.0.0\/ScenesAnimations\/.build\/debug",
+    "-I",
+    "\/usr\/local\/lib\/merlin\/MerlinKarel-1.0.0\/MerlinKarel\/.build\/debug",
+    "-enable-testing",
+    "-g",
+    "-module-cache-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/ModuleCache",
+    "-swift-version",
+    "5",
+    "-Onone",
+    "-D",
+    "SWIFT_PACKAGE",
+    "-D",
+    "DEBUG",
+    "-new-driver-path",
+    "\/usr\/bin\/swift-driver",
+    "-entry-point-function-name",
+    "Simple_main",
+    "-empty-abi-descriptor",
+    "-resource-dir",
+    "\/usr\/lib\/swift",
+    "-enable-anonymous-context-mangled-names",
+    "-Xcc",
+    "-fmodule-map-file=\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include\/module.modulemap",
+    "-Xcc",
+    "-I",
+    "-Xcc",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/checkouts\/swift-atomics\/Sources\/_AtomicsShims\/include",
+    "-module-name",
+    "Simple",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swift.o",
+    "-index-store-path",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/index\/store",
+    "-index-system-modules"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-frontend",
+  "inputs" : [
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/ActionPlan.swift"
+  ],
+  "kind" : "began",
+  "name" : "compile",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swift.o",
+      "type" : "object"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.d",
+      "type" : "d"
+    },
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swiftdeps",
+      "type" : "swift-dependencies"
+    }
+  ],
+  "pid" : 943800,
+  "process" : {
+    "real_pid" : 943800
+  }
+}
+131
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "compile",
+  "pid" : 943800,
+  "process" : {
+    "real_pid" : 943800
+  }
+}
+135
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "emit-module",
+  "pid" : 943799,
+  "process" : {
+    "real_pid" : 943799
+  }
+}
+803
+{
+  "command_arguments" : [
+    "-modulewrap",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.swiftmodule",
+    "-target",
+    "x86_64-unknown-linux-gnu",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.o"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-frontend",
+  "inputs" : [
+
+  ],
+  "kind" : "began",
+  "name" : "module-wrap",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.o",
+      "type" : "object"
+    }
+  ],
+  "pid" : 943810,
+  "process" : {
+    "real_pid" : 943810
+  }
+}
+135
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "module-wrap",
+  "pid" : 943810,
+  "process" : {
+    "real_pid" : 943810
+  }
+}
+1256
+{
+  "command_arguments" : [
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/ActionPlan.swift.o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/WorldPlanner.swift.o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.build\/main.swift.o",
+    "-o",
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.autolink"
+  ],
+  "command_executable" : "\/usr\/bin\/swift-autolink-extract",
+  "inputs" : [
+
+  ],
+  "kind" : "began",
+  "name" : "autolink-extract",
+  "outputs" : [
+    {
+      "path" : "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/.build\/x86_64-unknown-linux-gnu\/debug\/Simple.autolink",
+      "type" : "autolink"
+    }
+  ],
+  "pid" : 943813,
+  "process" : {
+    "real_pid" : 943813
+  }
+}
+140
+{
+  "exit-status" : 0,
+  "kind" : "finished",
+  "name" : "autolink-extract",
+  "pid" : 943813,
+  "process" : {
+    "real_pid" : 943813
+  }
+}
+178
+{
+  "inputs" : [
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/WorldPlanner.swift"
+  ],
+  "kind" : "skipped",
+  "name" : "compile"
+}
+170
+{
+  "inputs" : [
+    "\/home\/krishna-shah\/Merlin\/M1301-15 (01) Karel Beeper Spread\/C101 Move It [Karel]\/main.swift"
+  ],
+  "kind" : "skipped",
+  "name" : "compile"
+}
+[0/4] Compiling Swift Module 'Simple' (3 sources)
+[1/3] Linking Simple
+warning: 'c101 move it [karel]': found 2 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/krishna-shah/Merlin/M1301-15 (01) Karel Beeper Spread/C101 Move It [Karel]/compile.err
+    /home/krishna-shah/Merlin/M1301-15 (01) Karel Beeper Spread/C101 Move It [Karel]/compile.out
+
+[2/3] Planning build
+Building for debugging...
+Build complete! (1.20s)

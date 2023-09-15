@@ -1,0 +1,11 @@
+warning: 'c104 gates somewhere [karel]': found 5 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/ActionPlan.swift~
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/ActionPlan.swift.WORKS
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/ActionPlan.swift.BAK
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/compile.out
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C104 Gates Somewhere [Karel]/compile.err
+
+[0/1] Planning build
+Building for debugging...
+Build complete! (0.70s)
+/usr/local/bin/makeSwift: line 275: 3004697 CPU time limit exceeded (core dumped) swift run -c debug -Xswiftc -I -Xswiftc '/usr/local/lib/merlin/Igis-1.4.0/Igis/.build/debug' -Xswiftc -L -Xswiftc '/usr/local/lib/merlin/Igis-1.4.0/Igis/.build/debug' -Xswiftc -lIgis -Xswiftc -I -Xswiftc '/usr/local/lib/merlin/Scenes-1.1.6/Scenes/.build/debug' -Xswiftc -L -Xswiftc '/usr/local/lib/merlin/Scenes-1.1.6/Scenes/.build/debug' -Xswiftc -lScenes -Xswiftc -I -Xswiftc '/usr/local/lib/merlin/ScenesAnimations-1.0.0/ScenesAnimations/.build/debug' -Xswiftc -L -Xswiftc '/usr/local/lib/merlin/ScenesAnimations-1.0.0/ScenesAnimations/.build/debug' -Xswiftc -lScenesAnimations -Xswiftc -I -Xswiftc '/usr/local/lib/merlin/MerlinKarel-1.0.0/MerlinKarel/.build/debug' -Xswiftc -L -Xswiftc '/usr/local/lib/merlin/MerlinKarel-1.0.0/MerlinKarel/.build/debug' -Xswiftc -lMerlinKarel

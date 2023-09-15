@@ -1,0 +1,77 @@
+================================================================================
+1. In emacs, to move the cursor to the beginning of the file, the correct key sequence is:
+------------------------------------------------------------
+	A.  ESC->
+	B.  ESC-<
+	C.  C-e
+	D.  C-b
+
+================================================================================
+2. In emacs, to scroll up (backwards), the correct key sequence is:
+------------------------------------------------------------
+	A.  C-n
+	B.  M-v
+	C.  C-p
+	D.  C-v
+
+================================================================================
+3. In emacs, to switch to a specified buffer, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-x b
+	B.  C-b C-x
+	C.  M-b
+	D.  C-x C-b
+
+================================================================================
+4. In emacs, to move the cursor backward a single word, the correct key sequence is:
+------------------------------------------------------------
+	A.  M-f
+	B.  C-f
+	C.  M-b
+	D.  C-b
+
+================================================================================
+5. In emacs, to mark a segment of text to be killed, the beginning of the segment is marked with which key sequence:
+------------------------------------------------------------
+	A.  C-SPC
+	B.  M-s
+	C.  M-SPC
+	D.  C-s
+
+================================================================================
+6. In emacs, in order to undo the changes made by one command, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-u
+	B.  C-_ (the second character is an underscore)
+	C.  M-u
+	D.  M-_ (the second character is an underscore)
+
+================================================================================
+7. In emacs, to scroll down (forwards), the correct key sequence is:
+------------------------------------------------------------
+	A.  C-p
+	B.  C-n
+	C.  C-v
+	D.  M-v
+
+================================================================================
+8. In emacs, to move the cursor backward a single character, the correct key sequence is:
+------------------------------------------------------------
+	A.  C-p
+	B.  M-b
+	C.  M-p
+	D.  C-b
+
+================================================================================
+9. In emacs, there's no need to explicitly save the contents you are editing to a file.  Emacs performs this automatically as you type.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. When using emacs in a text terminal, long text lines which are continued on to another screen line are indicated by which character on the rightmost screen column?
+------------------------------------------------------------
+	A.  ! (an exclamation point)
+	B.  \ (a backslash)
+	C.  / (a forward slash)
+	D.  $ (a dollar sign)

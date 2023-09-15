@@ -1,0 +1,5 @@
+let integers : [Int] = [4823, -5128, -9490, 3259, 8648, -9091, -6336, -7869]
+let addend = 353
+print(integers)
+print(addend)
+print(addIntegers(integers:integers, addend:addend))

@@ -1,0 +1,37 @@
+================================================================================
+1. The command to change to a new directory temporarily is:
+------------------------------------------------------------
+	A.  cwd
+	B.  cd
+	C.  pushd
+	D.  popd
+
+================================================================================
+2. The command to list the contents of a directory is:
+------------------------------------------------------------
+	A.  listdir
+	B.  ls (lowercase "L", lowercase "S")
+	C.  list
+	D.  ld (lowercase "L", lowercase "D")
+
+================================================================================
+3. The command to display the current working directory is:
+------------------------------------------------------------
+	A.  cwd
+	B.  ecd
+	C.  pwd
+	D.  cd
+
+================================================================================
+4. What symbol is used to represent the user's home directory?
+------------------------------------------------------------
+	A.  / (a slash or forward slash)
+	B.  $ (a dollar sign)
+	C.  \ ( a backslash)
+	D.  ~ (a tilde)
+
+================================================================================
+5. Paths which begin at the root are called relative paths.
+------------------------------------------------------------
+	A.  True
+	B.  False

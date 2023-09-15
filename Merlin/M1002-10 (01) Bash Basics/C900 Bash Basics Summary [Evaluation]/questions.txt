@@ -1,0 +1,109 @@
+================================================================================
+1. The command used to create a new directory is:
+------------------------------------------------------------
+	A.  cwd
+	B.  createdir
+	C.  cd
+	D.  mkdir
+
+================================================================================
+2. The command to display the current working directory is:
+------------------------------------------------------------
+	A.  pwd
+	B.  ecd
+	C.  cd
+	D.  cwd
+
+================================================================================
+3. What command can be used to view a directory hierarchy?
+------------------------------------------------------------
+	A.  tree
+	B.  shrb
+	C.  ls
+	D.  pwd
+
+================================================================================
+4. The client-server model is antiquated and is no longer commonly used.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+5. The command to create a new file (or update the timestamp on a file which already exists) is:
+------------------------------------------------------------
+	A.  mkfile
+	B.  touch
+	C.  create
+	D.  upfile
+
+================================================================================
+6. The command to change to a new directory is:
+------------------------------------------------------------
+	A.  pwd
+	B.  cd
+	C.  cwd
+	D.  chdir
+
+================================================================================
+7. A process is a program that is being executed by the operating system.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+8. The command to change to a new directory temporarily is:
+------------------------------------------------------------
+	A.  cwd
+	B.  cd
+	C.  pushd
+	D.  popd
+
+================================================================================
+9. In Linux, all files are integrated into a single, hierarchical directory structure that appears as an inverted tree.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+10. A client-server model is a means of distributing resources between the provider of a service and a consumer of that service, the client.
+------------------------------------------------------------
+	A.  True
+	B.  False
+
+================================================================================
+11. What command can be used to view a manual about a topic?
+------------------------------------------------------------
+	A.  manual
+	B.  emanual
+	C.  eman
+	D.  man
+
+================================================================================
+12. The command to echo text to the screen is:
+------------------------------------------------------------
+	A.  display
+	B.  write
+	C.  echo
+	D.  print
+
+================================================================================
+13. The command to return to the previous directory after a command was issued to temporarily change the directory is:
+------------------------------------------------------------
+	A.  pushd
+	B.  popd
+	C.  pwd
+	D.  pd
+
+================================================================================
+14. What command can be used to clear the screen?
+------------------------------------------------------------
+	A.  clrscr
+	B.  clr
+	C.  cs
+	D.  clear
+
+================================================================================
+15. Redirection may be used to direct standard output to a file.
+------------------------------------------------------------
+	A.  True
+	B.  False

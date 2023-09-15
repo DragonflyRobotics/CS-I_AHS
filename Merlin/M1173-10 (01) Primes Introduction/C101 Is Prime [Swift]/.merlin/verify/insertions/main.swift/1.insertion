@@ -1,0 +1,2 @@
+let n = 1326
+print(n, isPrime(n:n))

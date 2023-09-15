@@ -1,0 +1,8 @@
+warning: 'c101 eastward [karel]': found 3 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C101 Eastward [Karel]/compile.err
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C101 Eastward [Karel]/ActionPlan.swift~
+    /home/krishna-shah/Merlin/M1165-11 (01) Karel Sensors/C101 Eastward [Karel]/compile.out
+
+[0/1] Planning build
+Building for debugging...
+Build complete! (0.77s)

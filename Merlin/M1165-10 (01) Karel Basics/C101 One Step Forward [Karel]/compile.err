@@ -1,0 +1,8 @@
+warning: 'c101 one step forward [karel]': found 3 file(s) which are unhandled; explicitly declare them as resources or exclude from the target
+    /home/krishna-shah/Merlin/M1165-10 (01) Karel Basics/C101 One Step Forward [Karel]/compile.out
+    /home/krishna-shah/Merlin/M1165-10 (01) Karel Basics/C101 One Step Forward [Karel]/compile.err
+    /home/krishna-shah/Merlin/M1165-10 (01) Karel Basics/C101 One Step Forward [Karel]/ActionPlan.swift~
+
+[0/1] Planning build
+Building for debugging...
+Build complete! (0.78s)

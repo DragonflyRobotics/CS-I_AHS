@@ -1,0 +1,2 @@
+let integers : [Int] = [6298, -4276]
+print(classify(integers:integers))

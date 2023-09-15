@@ -1,0 +1,51 @@
+import Scenes
+import Igis
+
+/*
+ This class is responsible for rendering the background.
+ */
+
+
+class Score : RenderableEntity {
+
+    var text : Text
+
+    let location: Point = Point(x: 500, y: 700)
+    var CanvasSize: Size;
+    
+    init() {
+        // Using a meaningful name can be helpful for debugging
+
+        text = Text(location:location, text:"Hello, World!")
+        self.CanvasSize = Size()
+        
+        super.init(name:"Score")
+    }
+    override func setup(canvasSize:Size, canvas:Canvas) {
+        self.CanvasSize = canvas.canvasSize!
+        canvas.render(text)
+
+    }
+    override func render(canvas: Canvas) {
+        self.CanvasSize = canvas.canvasSize!
+        let rect = Rect(topLeft: Point(x:0,y:0), size: canvas.canvasSize!)
+        text.location = Point(x: (self.CanvasSize.width/2), y: ((self.CanvasSize.height*8)/9))
+        let rectangle = Rectangle(rect:rect)
+        let fillStyle = FillStyle(color:Color(.white))
+        let fillStyle2 = FillStyle(color:Color(.black))
+//        canvas.render(fillStyle, rectangle)
+        canvas.render(fillStyle2, text)
+    }
+    func updateScore(s1: Int, s2: Int) {
+        if s1 > s2 {
+            text.text = "\(s1) <= \(s2)"
+        } else if s2 > s1 {
+            text.text = "\(s1) => \(s2)"
+        } else if s2 == s1 {
+            text.text = "\(s1) <=> \(s2)"
+        } else {
+            text.text = "ERROR"
+        }
+        text.font = "100pt Arial"
+    }
+}

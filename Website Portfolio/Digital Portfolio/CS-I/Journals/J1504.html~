@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1503: Lines and Ellipses - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1503: Lines and Ellipses</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 3-Apr-2023</p>
+
+    <hr />
+
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+
+    <p><strong>1.1 What do you observe? --></strong> A blue line is drawn with a thickness of 3 on the screen.</p>
+    <p><strong>1.2 What is the purpose of <code>LineWidth</code>? --></strong> LineWidth changes the thickness of the line when the canvas is rendered.</p>
+    <p><strong>1.3 Why do we draw lines with <code>StrokeStyle</code> rather than <code>FillStyle</code>? --></strong> StrokeStyle describes the color of the stroke or line that is being drawn whereas FillStyle describes the color of the shape formed by the interior of the strokes (only true for normal shapes like rectangles and elipses).</p>
+    <p><strong>2.1 What do you observe? --></strong> A blue triangle with a line width of 3 is drawn.</p>
+    <p><strong>2.2 Which statements draw the triangle? --></strong> The lines 8-10 help define the lines of the triangle and line 12 helps render it on IGIS.</p>
+    <p><strong>2.3 What would happen without line 10 (in the above listing)? --></strong> Without line 10, the 3rd side of the triangle wouldn't be drawn and theere would only be 2 lines.</p>
+    <p><strong>3.1 What do you observe? --></strong> In addition to the triangle, a violet ellipse is drawn on the canvas.</p>
+    <p><strong>3.2 Why do you think the class Ellipse is used to draw a circle? --></strong> A circle is a special type of ellipse whose x radius and y radius is the same meaning it has only 1 focal point.</p>
+    <p><strong>3.3 What is the purpose of <code>radiusX</code> and <code>radiusY</code>? --></strong> The <code>radiusX</code> is the horizontal distance from the center to the horizontal verticies and the <code>radiusY</code> is the distance from the center to the vertical verticies.</p>
+    
+    <hr />
+
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned how to draw polygons using the line tool and make circles and ellipses to add more unique shapes to my designs.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challeges in this lesson.</p>
+
+    <p><strong>How could this experience be improved?</strong> This is experience was pretty good as is. </p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> This lesson helped me learn different properties I could change and use in IGIS. I learned how to join lines back to back and use StrokeStyle properly to ensure that only certain shapes are colored a certain color. </p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+  </html> 

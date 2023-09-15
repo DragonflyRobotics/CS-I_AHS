@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1013: Boolean Algebra - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1013 - Boolean Algebra</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 12-Sep-2022</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: Nolawi Redeat</strong></p>
+
+    <hr />
+
+    
+    <p><strong>1.1 Why is one of the symbols used for exclusive disjunction &#8802? --></strong> The symbol for exclusive disjunction looks like "&#8802" because it only returns true if A != B. That is why it is very similar(if not identical) to the not equal to function. That is why it looks like the equivalence sign with a cross through it. </p>
+
+    <p><strong>2.1 Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula 2&#x207F --></strong> The number of rows is 2 to the power of n becuase if n is the number of inputs, the total number of all the possible combinations possible, according to probabilities, is 2&#x207F.</p> 
+
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned the basics of boolean algebra and all the operators that are involved. I Was also able to realte this to all of my previous knowlege of quantum computing logic gates where some of these gates were used. Most of these operators made sense in context of functions that compare and return values.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challenges yet since I have prior experience with logic gates.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think, so far my experience is perfect.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> I found these operators useful when trying to explain or make an algorithm for computers. I also think that this will help me understand some online articles since they all used this type of algebra to explain different computational algorithms. I also understand how the NP-hardness evaluation was created.</p>
+  </body>
+</html>   

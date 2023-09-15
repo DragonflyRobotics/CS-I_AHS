@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1504: First Steps on a Path - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1504: First Steps on a Path</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 10-Apr-2023</p>
+
+    <hr />
+
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+
+    <p><strong>1.1 What do you observe? --></strong> A black arc was drawn in the middle of the screen.</p>
+    <p><strong>1.2 What is the purpose of the parameters <code>startAngle</code> and <code>endAngle</code>? --></strong> The <code>startAngle</code> and <code>endAngle</code> parameters help define what angle the arc starts at and stops at. </p>
+    <p><strong>1.3 In which direction do you think the arc is being drawn (clockwise or counterclockwise)? --></strong> Clockwise since the end angle is greater than the start angle. </p>
+    <p><strong>1.4 How can you test your hypothesis? --></strong> I can make the end angle smaller and see if it inverts the arc. </p>
+
+    <p><strong>2.1 What do you observe? --></strong> A second arc formed that completes the previous one.</p>
+    <p><strong>2.2 Note that there is only a single canvas.render() statement. How does this single statement result in the rendering of two arcs? --></strong> We appended a second arc to the same path object.</p>
+    
+    <p><strong>3.1 What do you observe? --></strong> The shaped was filled with a white-like color and the line thickness got significantly thicker. </p>
+    <p><strong>3.2 Which line number determines whether or not this Path is filled? --></strong> Line number 2 determines whether the shape should be filled or not.</p>
+    <p><strong>3.3 What do you observe? --></strong> A black arc was drawn in the middle of the screen.</p>
+
+    <p><strong>4.1 What do you observe? --></strong> In addition to the previous arc, a new circle forme in the center of the previous one with a blue fill color.</p>
+    <p><strong>4.2 The outerPath contains two arcs and each specifies a startAngle and endAngle. These angles aren't specified explicitly for the innerPath. What are the default angles in this case? --></strong> The default angles are likely 0 and PI since that would define a circle. </p>
+
+    <p><strong>5.1 What do you observe? --></strong> Now there are lines on the upper part of the arc of the eye.</p>
+    <p><strong>5.2 Is a path necessarily constructed of a single, continuous line? --></strong> They do not have to be continuous and can be detached lines. </p>
+
+    
+    
+
+    
+    <hr />
+
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned how to draw polygons using the line tool and make circles and ellipses to add more unique shapes to my designs.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challeges in this lesson.</p>
+
+    <p><strong>How could this experience be improved?</strong> This is experience was pretty good as is. </p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> This lesson helped me learn different properties I could change and use in IGIS. I learned how to join lines back to back and use StrokeStyle properly to ensure that only certain shapes are colored a certain color. </p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+  </html> 

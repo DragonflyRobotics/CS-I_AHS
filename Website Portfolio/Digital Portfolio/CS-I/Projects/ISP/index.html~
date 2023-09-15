@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CS-1 ISP - Krishna Shah</title>
+
+    <link rel="stylesheet" href="style.css" >
+  </head>
+  
+  <body>
+    <h1>Krishna Shah Welcomes You to His Independent Study Project!</h1>
+    <p>This is the independent study project that was conducted as a group along with Omer Sonmez, Michael Asemota, and Zaref Farhaan. If not, your correct webpage is located <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>!</p>
+
+    <h2><a href="https://codermerlin.com/users/krishna-shah/Digital%20Portfolio/CS-I/Projects/ISP/Journal.html">Journal Entries</h2>
+
+    <ul>
+      <li><a href="week1.html">Week 1: Setup ISP</a></li>
+      <li><a href="week2.html">Week 2: Learning Swift</a></li>
+    </ul>
+
+    <a href="https://codermerlin.com/users/krishna-shah/Digital%20Portfolio/" target="_blank"><h2>Digital Portfolio</h2></a>
+    <a href="https://codermerlin.com/users/krishna-shah/" target="_blank"><h2>Home Page</h2></a>
+    
+  </body>
+  </html>

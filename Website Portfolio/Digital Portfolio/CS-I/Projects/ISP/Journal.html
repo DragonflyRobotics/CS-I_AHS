@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <script>
+    
+    function includeHTML() {
+	
+	var z, i, elmnt, file, xhttp;
+	
+	/*loop through a collection of all HTML elements:*/
+	
+	z = document.getElementsByTagName("*");
+	
+	for (i = 0; i < z.length; i++) {
+	    
+	    elmnt = z[i];
+	    
+	    /*search for elements with a certain attribute:*/
+	    
+	    file = elmnt.getAttribute("w3-include-html");
+	    
+	    if (file) {
+		
+		/*make an HTTP request using the attribute value as the file name:*/
+		
+		xhttp = new XMLHttpRequest();
+		
+		xhttp.onreadystatechange = function() {
+		    
+		    if (this.readyState == 4) {
+			
+			if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+			
+			if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+			
+			/*remove the attribute, and call this function once more:*/
+			
+			elmnt.removeAttribute("w3-include-html");
+			
+			includeHTML();
+			
+		    }
+		    
+		}
+		
+		xhttp.open("GET", file, true);
+		
+		xhttp.send();
+		
+		/*exit the function:*/
+		
+		return;
+		
+	    }
+	    
+	}
+	
+    };
+    
+</script>
+
+  <head>
+    <title>CS-1 ISP - Krishna Shah</title>
+
+    <link rel="stylesheet" href="style.css" >
+  </head>
+  
+  <body>
+    <h1>Krishna Shah Welcomes You to His Independent Study Project!</h1>
+    <p>This is the independent study project that was conducted as a group along with Omer Sonmez, Michael Asemota, and Zaref Farhaan. If not, your correct webpage is located <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>!</p>
+
+    <div w3-include-html="week11.html"></div>
+    <hr />
+    <div w3-include-html="week10.html"></div>
+    <hr />
+    <div w3-include-html="week9.html"></div>
+    <hr />
+    <div w3-include-html="week8.html"></div>
+    <hr />
+    <div w3-include-html="week7.html"></div>
+    <hr />
+    <div w3-include-html="week6.html"></div>
+    <hr />
+    <div w3-include-html="week5.html"></div>
+    <hr />
+    <div w3-include-html="week4.html"></div>
+    <hr/>
+    <div w3-include-html="week3.html"></div>
+    <hr/>
+    <div w3-include-html="week2.html"></div>
+    <hr/>
+    <div w3-include-html="week1.html"></div>
+
+    <a href="https://codermerlin.com/users/krishna-shah/Digital%20Portfolio/" target="_blank"><h2>Digital Portfolio</h2></a>
+    <a href="https://codermerlin.com/users/krishna-shah/" target="_blank"><h2>Home Page</h2></a>
+
+    <script>
+      
+      includeHTML();
+      
+</script>
+    
+  </body>
+
+
+
+
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1002 - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1002</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 17-Aug-2022</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: Nolawi Redeat</strong></p>
+
+    <hr />
+    
+    <p><strong>1.1 --></strong> Two other things that use client-server architecture would be Spotify that requests the server to stream an audio file so that the client doesn't need a physical copy of the audio. Canvas uses a similar system where the client requests an assignment and Canvas retrieves it from its database.</p>
+
+    <p><strong>2.1</strong> --> It is important that folders and files can have the same name. If this was not possible, making a directory called &quot;etc&quot; or &quot;boot&quot; would completly crash the computer since those are system directories. It also makes it convinient to keep a similar naming scheme accross multiple projects. That is why a path exists. It serves to differentiate all the files due to their individual location in subdirectories.</p>
+
+    <p><strong>3.1 --></strong> The home directory is incredibly useful since that is where you will (probably) store all your files. It is important to be able to quickly navigate back. That is why instead of typing &quot;cd /home/user&quot;, we can simply type &quot;cd ~&quot; or better yet &quot;cd&quot; to go back to the home directory.</p>
+
+    <p><strong>4.1 --></strong> The prompt constantly changes to show you the most important information that you need. When you change directories, it shows the new path. This makes navigation a lot easier. The &quot;$&quot; also shows that you are currently the normal user. If you run &quot;sudo su&quot;, you will be logged into the root profile and it will change to &quot;#&quot;.</p>
+
+    <p><strong>5.1 --></strong> The terminal autopopulates the previous command, and it will continue to scroll back in time.
+    <p><strong>5.2 --></strong> The terminal autopopulates with the next command, and it will continue to scroll back in time.</p>
+
+    <p><strong>6.1 --></strong> &quot;Hello, world!&quot; was not printed. Instead, the information for it was piped to the file creation operation and is currently in the &quot;out.txt&quot; file.</p>
+
+    <p><strong>7.1 --></strong> The &quot;tree&quot; command will list all the files in the current directories and subdirectories in an organized, hiearchial manner. &quot;ls&quot;, on the other hand, simply lists files in the current directory.
+    <p><strong>7.2 --></strong> If you need to quickly navigate to a location that you are familiar with, you would use &quot;ls&quot;. But, if you want to find a particular file or navigate unknown folders, you would use tree. It is also sometimes beneficial to not use tree since if a folder has hundreds of subfolders and files, it will bloat the entire terminal.</p>
+
+    <p><strong>8.1 --></strong> The argument to &quot;sleep&quot; specifies the seconds it should sleep for.
+    <p><strong>8.2 --></strong> We can set the seconds to some arbitratry number and manually time it to see if it is counting to the set number of seconds before returning the prompt.</p>
+
+    <p><strong>9.1 --></strong> It immediatly returned the prompt.
+    <p><strong>9.2 --></strong> It will run that process on a seperate thread or core. This means that you can continue working on your current thread and it will just alternate clock cycles for all the different tasks.
+    <p><strong>9.3 --></strong> The numbers are the unique identifies assigned by the job dispatcher that can be used to identify particular PID processes and run operations on them.</p>
+
+    <p><strong>10.1 --></strong> All the running/stopped jobs are listed. They are numbered in chronological order and shows the exact command that was executed. This can be used to resume or kill the task.
+    <p><strong>10.2 --></strong> This can be explained by looking at the numbering and the labels that are assigned to each task. ...</p>
+
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned the basics of the shell and how the client/server architecture functions. I learned some commands to navigate the GNU/Linux OS.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challenges yet since I have prior experience with Linux.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think, so far my experience is perfect.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> I have learned to efficiently use Emacs which has significantly more functions than the Nano editor. I feel confident using it as my primary editor now.</p>
+  </body>
+</html>   

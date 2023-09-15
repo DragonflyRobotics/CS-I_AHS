@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1151: Conditional and Flow Chart - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1151 - Conditional and Flow Chart</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 19-Jan-2023</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+    
+    <p><strong>1.1 How does branching enable significantly more complex program behavior? --></strong> It allows the program to interact with its environment and respond accordingly. It can now use inputs and vary the response based on the inputs. It also allows the program to access specific portions of the code quickly without running through the entire thing.</p>
+
+      <p><strong>1.2 Why do you think the term consequent is used to refer to the statements that are executed when the Boolean test evaluates to true? --></strong> The term consequent is used because that is what the code will run <i>as a consequence</i> of the conditional being true.</p>
+
+      <p><strong>2.1 Why is the first Jump instruction conditional? What determines whether the jump will be executed or not? --></strong> It is testing to see if the input number is less than or equal to 4. Only then will it jump to the alternative function. </p>
+
+      <p><strong>2.2 What is the purpose of the Jump instruction after the consequent? --></strong> It is meant to jump to a function that will exit once the process the consequent had to do is complete.</p>
+
+      <p><strong>2.3 Why is there no need for a corresponding Jump instruction after the alternative? --></strong> Because the exit instructions come right after the alternative so there is no need to jump since it will already be in order.</p>
+
+      <a href="J1151.xml">Link to the XML for the diagrams!</a>
+      
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned bout the history of the Hello World program and why that is the first thing we are taught when learning a new programming language. </p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challenges since this was just a history article.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think, so far my experience is perfect.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> I have learned why Hello World is used and fell better about knowing some history behind the first Hello World program.</p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+</html>   

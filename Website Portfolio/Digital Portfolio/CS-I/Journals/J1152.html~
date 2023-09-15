@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1152: Loops - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1152 - Loops</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 17-Aug-2022</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+    
+    <p><strong>1.1 Why is the test executed prior to the loop? --></strong> Test is executed prior to the loops since it is next in the sequential order of the file and will enter the alternative if the condition is already met.</p>
+    <p><strong>1.2 Compare this diagram to that of the conditional. What are the similarities? What are the differences? --></strong> They both have a conditional to test the boolean value of an expression. But in conditionals, the consequent runs once whereas in loops, they can run several or even hundreds of times before resorting to the alternative. </p>
+    <p><strong>1.3 What is the purpose of the Jump instruction after the consequent? --></strong> It is meant to jump back to the test and reevaluate the condition of the loop. It will determine if it needs to co through the consequent or exit with the alternative.</p>
+
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned how loops work and their representation in a diagram and in assembly.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challeges in this lesson.</p>
+
+    <p><strong>How could this experience be improved?</strong> This is experience was pretty good as is. </p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> This lesson gave me a new perspective of while loops. When looking at while loops, I can better understand how they function since I know how to make them in assembly. </p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+</html>   

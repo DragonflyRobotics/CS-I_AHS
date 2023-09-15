@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Profile - Krishna Shah</title>
+
+    <link rel="stylesheet" href="style.css" >
+  </head>
+
+
+
+
+
+
+  
+  <body>
+    <h1>Krishna Shah Welcomes You to His Profile!</h1>
+    <p>Hello human/alien, provided below are links to all the different journal responses and other such things. Hope this is what you were looking for. If not, your correct webpage is located <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">here</a>!</p>
+
+    <h2>Journal Entries</h2>
+    
+    <ul>
+      <li><a href="Journals/J1002.html">J1002</a></li>
+      <li><a href="Journals/J1006.html">J1006</a></li>
+      <li><a href="Journals/J1008.html">J1008</a></li>
+    </ul>
+  </body>
+  </html>

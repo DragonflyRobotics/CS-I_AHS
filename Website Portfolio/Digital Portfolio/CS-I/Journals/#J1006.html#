@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1006 - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1006 - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1006</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 20-Aug-2022</p>
+    <hr />
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+    <hr />
+    <p><strong>1.1 What is Git communicating to you? --></strong> &quot;git log&quot; shows the latest commit hash along with some other useful info like the commit date, commit message, etc.</p>
+    <p><strong>1.2 What do you see that is common between this git log command and the previous git commit? --></strong> The command &quot;git commit&quot; and &quot;git log&quot; both show the commit message.</p>
+    <p><strong>1.3 Why do you think this is? --></strong> This is because they show you the commit info.</p>
+
+    <p><strong>2.1 What do you notice about file1.txt and file2.txt? How are they displayed in git status? --></strong> file2.txt is red and it is asking to start tracking the file while it is asking to stage file1.txt.</p>
+    <p><strong>2.2 Are they both displayed in the same section? If not, why not? --></strong> No, file2.txt is not added to git while one is added but not staged.</p>
+
+    <p><strong>3.1 What do you notice about file1.txt and file2.txt? How are they displayed in git status? --></strong> The 2 files are now under the same section and one has the modified status while the other has the new file status.</p>
+    <p><strong>3.2 Compare and contrast the manner in which the two files are displayed. --></strong> They are both green and ready to commit but have a different status.</p>
+
+    <p><strong>4.1 How many files are listed as having been changed? --></strong> 2 files have been listed with changes.
+    <p><strong>4.2 What are the specific differences listed for each file? In what color is the difference displayed? --></strong> The specific line changes are all the text I added like &quot;New line&quot; and &quot;This is another sentence&quot;. Green means added and red means deleted.</p>
+
+    <p><strong>5.1 What does Git tell you has changed? Why? --></strong> Running "git diff" after commiting shows nothing since all the changes between the remote and local are up to date and there are no other changes. I am not sure if this is what the question was since section 5 on CoderMerlin is all clumped and glitchy on my computer.</p> 
+    <hr />
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned about source control and how it works. I learned about it's potential uses and its inventor. Source control is a method of managing different versions of a project. It allows you to see the change history and revert back incase something goes wrong.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I didn't encounter any errors yet since I have prior experience with Github and Git CLI.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think my experience is perfect so far.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> I have learned about some new commands like &quot;git log&quot; and &quot;git diff --cached&quot; that will make my workflow more efficient. I am also able to think about Github Flow in a new way.</p>
+  </body>
+  </html>

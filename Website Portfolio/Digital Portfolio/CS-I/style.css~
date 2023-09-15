@@ -1,0 +1,12 @@
+p, h1, h2 {
+    color: green;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+strong {
+    color: green;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 25px;
+}
+body {
+    background-color: black;
+}

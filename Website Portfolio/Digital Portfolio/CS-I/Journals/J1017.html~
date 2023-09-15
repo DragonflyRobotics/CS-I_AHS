@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1017: Binary Adders - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1017 - Binary Adders</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 11-Oct-2022</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+    
+    <p><strong>1.1 What truth table do you recognize that produces the output of the Carry column? --></strong> The AND gate will produce that truth table.</p>
+
+    <p><strong>1.2 What truth table do you recognize that produces the output of the Sum column? --></strong> The XOR gate will produce that truth table.</p>      
+
+
+    <p><strong>2.1 What do you notice about the relationship between the first-half (top four rows) of the full-adder as compared to all of the rows of the half-adder? --></strong> The first half is identical to the truth table of the half-adder.</p>
+    
+    <p><strong>2.2 Why is this true? --></strong> This is because when we don't have a carried value to worry about so the first half will have the exact same output as a half-adder that cannot handle carried values.</p>      
+
+
+    <p><strong>3.1 Why does the least significant bit position use a half-adder rather than a full-adder? --></strong> Because it doesn't have to worry about anything being carried from the previous place. Since it has no carried values to add to the sum, it can simple do the half addition. If we used the full-adder instead, it would be missing the carry argument.</p>
+    <p><strong>3.2 Assume that proper inputs are applied for all bits in numbers A and B. Will the correct output from S be available instantaneously? If not, why not? --></strong> It won't be available instantaneously because the sum must wait for the previous adders to finish in order to do the computation. This is because each full-adder needs the carry value from the previous added. </p>
+    <p><strong>3.3 Assume that we have a standard (non-scientific calculator) capable of adding two 16-bit words. Two numbers, A and B, are added together. After the addition, it is noted that C15 is high. What can we infer? What is this state commonly called? --></strong> This means that the number is larger than what 16-bit (hexadecimal) representation can handle. This will throw an overflow error.</p>
+
+
+
+    <hr />
+
+    <img src="j1016_instructions.png">
+
+    <br />
+
+    <a href="https://tinyurl.com/2j7tzf9d" target="_blank"><img src="Adders.png" alt="Adders" height="800px" width="auto"></a>
+    
+
+    
+    
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned how addition works through the use of full and half adders to make a ripple carry adder.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challenges yet.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think, so far my experience is perfect.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> I understand how to make the mathematical concept of addition more solid through the use of logic composition.</p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+</html>   

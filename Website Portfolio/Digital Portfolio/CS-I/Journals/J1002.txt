@@ -1,0 +1,46 @@
+Name: Krishna Shah
+Journal: J1002
+Date: 17-Aug-2022
+
+I recieved assistance from: N/A
+
+I assisted: Nolawi Redeat (my apologies if I spelled it wrong)
+
+1.1 --> Two other things that use client-server architecture would be Spotify that requests the server to stream an audio file so that the client doesn't need a physical copy of the audio. Canvas uses a similar system where the client requests an assignment and Canvas retrieves it from its database.
+
+2.1 --> It is important that folders and files can have the same name. If this was not possible, making a directory called "etc" or "boot" would completly crash the computer since those are system directories. It also makes it convinient to keep a similar naming scheme accross multiple projects. That is why a path exists. It serves to differentiate all the files due to their individual location in subdirectories.
+
+3.1 --> The home directory is incredibly useful since that is where you will (probably) store all your files. It is important to be able to quickly navigate back. That is why instead of typing "cd /home/user", we can simply type "cd ~" or better yet "cd" to go back to the home directory.
+
+4.1 --> The prompt constantly changes to show you the most important information that you need. When you change directories, it shows the new path. This makes navigation a lot easier. The "$" also shows that you are currently the normal user. If you run "sudo su", you will be logged into the root profile and it will change to "#".
+
+5.1 --> The terminal autopopulates the previous command, and it will continue to scroll back in time.
+5.2 --> The terminal autopopulates with the next command, and it will continue to scroll back in time.
+
+6.1 --> "Hello, world!" was not printed. Instead, the information for it was piped to the file creation operation and is currently in the "out.txt" file.
+
+7.1 --> The "tree" command will list all the files in the current directories and subdirectories in an organized, hiearchial manner. "ls", on the other hand, simply lists files in the current directory.
+7.2 --> If you need to quickly navigate to a location that you are familiar with, you would use "ls". But, if you want to find a particular file or navigate unknown folders, you would use tree. It is also sometimes beneficial to not use tree since if a folder has hundreds of subfolders and files, it will bloat the entire terminal.
+
+8.1 --> The argument to "sleep" specifies the seconds it should sleep for.
+8.2 --> We can set the seconds to some arbitratry number and manually time it to see if it is counting to the set number of seconds before returning the prompt.
+
+9.1 --> It immediatly returned the prompt.
+9.2 --> It will run that process on a seperate thread or core. This means that you can continue working on your current thread and it will just alternate clock cycles for all the different tasks.
+9.3 --> The numbers are the unique identifies assigned by the job dispatcher that can be used to identify particular PID processes and run operations on them.
+
+10.1 --> All the running/stopped jobs are listed. They are numbered in chronological order and shows the exact command that was executed. This can be used to resume or kill the task. 
+10.2 --> This can be explained by looking at the numbering and the labels that are assigned to each task.
+...
+
+What did I learn? What is the "big idea"?
+I learned the basics of the shell and how the client/server architecture functions. I learned some commands to navigate the GNU/Linux OS.
+
+What challenges did I encounter?
+I did not encounter any challenges yet since I have prior experience with Linux. 
+
+How could this experience be improved?
+I think, so far my experience is perfect.
+
+Free Reflection: How has what I have learned affected my thinking?
+I have learned to efficiently use Emacs which has significantly more functions than the Nano editor. I feel confident using it as my primary editor now.

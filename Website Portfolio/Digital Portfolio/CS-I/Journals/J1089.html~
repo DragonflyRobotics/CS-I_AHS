@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1089: Hello World - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1089 - Hello World</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 19-Jan-2023</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+    
+    <p><strong>1.1 Why do you think Hello world is typically the first program taught to students? --></strong> Hello World is first used because it is very easy to write and demonstrates the input/output capabilities of the program and tests essential features like SDT Out.</p>
+
+    <p><strong>1.2 How might the Hello World program be different, depending on the programming language it's written in? --></strong> Every language utilizes OS functions and IO differently. While some have simple functions like print() in Swift, others (like Assembly) require manual register modification and system calls. It is all due to the unique nature of the language. </p>
+
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned bout the history of the Hello World program and why that is the first thing we are taught when learning a new programming language. </p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challenges since this was just a history article.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think, so far my experience is perfect.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> I have learned why Hello World is used and fell better about knowing some history behind the first Hello World program.</p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+</html>   

@@ -1,0 +1,17 @@
+p, h1, h2, li {
+    color: green;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+strong {
+    color: green;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}
+body {
+    background-color: black;
+}
+pre {
+    color: green;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}

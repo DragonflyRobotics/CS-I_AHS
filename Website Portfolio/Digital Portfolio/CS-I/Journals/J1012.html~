@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1012: Alternative Base Addition - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1012 - Alternative Base Addition</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 1-Sept-2022</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: Nolawi Redeat</strong></p>
+
+    <hr />
+
+    <p><strong>1.1 Describe the general process for executing addition, regardless of base. --></strong> You start from the right and add the b^0 values. If the are greater than the base, you carry over the one and do the same process with the next place value. You repeat this and tally the value you have before carrying over.</p>
+
+    <p><strong>2.1 What special factors need to be considered when executing addition with octal numbers? --></strong> You have to ensure you carry over any time the sum of the two digits is greater than <i>8</i></p>
+
+    <p><strong>3.1 What special factors need to be considered when executing addition with hexadecimal numbers? --></strong> You need to make sure you carry over any time the sum of the 2 digits is greater than 15. You also have to make sure that anything greater than 9 is encoded by a letter.</p>
+
+    <p><strong>4.1 What special factors need to be considered when executing addition with binary numbers? --></strong> In binary, 2 becomes 0 and you have to carry over the one. 3 becomes a 1 and you carry the one.</p>
+
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned the basics of adding numbers with different faces and what rules apply when adding them. I also learned about the proper method of writing them whether that is using commas, space.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I encountered no challenges since I have prior experience with base conversions.</p>
+
+    <p><strong>How could this experience be improved?</strong> I think, so far my experience is perfect.</p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> It has not significantly affected my thinking.</p>
+
+  </body>
+</html>   

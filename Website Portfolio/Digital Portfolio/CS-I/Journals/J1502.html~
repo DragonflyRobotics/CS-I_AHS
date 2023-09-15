@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>J1501: Introduction to Objects - Krishna Shah</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Journal: J1501: Introduction to Objects</h1>
+    <h2>By: Krishna Shah</h2>
+    <p>Date: 21-Mar-2023</p>
+
+    <hr />
+    
+    <p><strong>I recieved assistance from: N/A</strong></p>
+
+    <p><strong>I assisted: N/A</strong></p>
+
+    <hr />
+
+    
+    <p><strong>1.1 What do you observe? --></strong> There is some small text on the canvas that says "Hello, World!".</p>
+    <p><strong>1.2 How large is the text? --></strong> It is really small, probably 12pt font. </p>
+
+    <p><strong>2.1 What do you observe? --></strong> The same text is there but it is larger and the font changed to Arial.</p>
+    <p><strong>2.2 How large is the text now? --></strong> Now, it is much larger and the font size changed. </p>
+
+    <p><strong>3.1 What do you observe? --></strong> Now there is a rectangle behind the text.</p>
+    <p><strong>3.2 What is the purpose of the location parameter in the Text constructor? --></strong> That is the location of the top-right corner of the text.</p>
+    <p><strong>3.3 What is the corresponding parameter named in the Rectangle? --></strong> The parameter topLeft is the same as the location parameter in the Text class.</p>
+    <p><strong>3.4 What is the difference between a Rect and a Rectangle? Hint: Are you able to render a Rect? --></strong> Rect simply constructs a rectangle whereas Rectangle makes the object a renderable entity that IGIS can display. </p>
+    
+    <hr />
+    
+    <p><strong>What did I learn? What is the &quot;big idea&quot;?</strong> I learned how to use basic shapes and text in IGIS and how objects work.</p>
+
+    <p><strong>What challenges did I encounter?</strong> I did not encounter any challeges in this lesson.</p>
+
+    <p><strong>How could this experience be improved?</strong> This is experience was pretty good as is. </p>
+
+    <p><strong>Free Reflection: How has what I have learned affected my thinking?</strong> This lesson helped me understand why Rect is different from Rectangle and allowed me to understand why a strategy like that is beneficial. Having 2 objects, one for the mathematical definition of a rectangle, while the other converts that rectangle to a renderable entity. </p>
+
+    <br>
+    <div><button onclick="history.back()">Go Back</button>    <a href="https://codermerlin.com/users/krishna-shah/"><button>Home</button></a></div>
+  </body>
+</html>   
